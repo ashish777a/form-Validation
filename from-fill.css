@@ -1,3 +1,21 @@
 *{
-    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    /* padding: 10px; */
+    di  
+}
+.name{
+    padding:10px;
+}
+.age{
+    padding:10px;
+}
+.phone{
+    padding:10px;
+}
+.email{
+    padding:10px;
 }
